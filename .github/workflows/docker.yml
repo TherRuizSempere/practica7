@@ -34,5 +34,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            thertuizsempere/practica7:latest
-            ghcr.io/esthersullivan/practica7:latest
+            esthersullivan/practica7:latest
+            ghcr.io/therruizsempere/practica7:latest
