@@ -33,5 +33,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            raul-profesor/practica_7.1:latest
-            ghcr.io/raul-profesor/practica_7.1:latest
+            TherRuizSempere/practica7:latest
+            ghcr.io/TherRuizSempere/practica7:latest
