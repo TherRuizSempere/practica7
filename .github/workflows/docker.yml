@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
-      - feat-nuevoanimal
+      
 
 jobs:
   build-and-push:
